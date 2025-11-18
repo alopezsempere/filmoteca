@@ -1,46 +1,79 @@
 # Filmoteca
+El repositori Filmoteca conté diversos directoris amb informació sobre llibres, sèries i pel·lícules.
 
-Aquest és un exemple de projecte col·laboratiu sobre el qual es
-treballarà a l'[exercici del Bloc 6: Gestió de projectes](https://joapuiib.github.io/curs-git/apunts/06_projectes/exercici/)
-del curs de formació [Introducció a Git i la seua aplicació a l’aula](https://joapuiib.github.io/curs-git/).
+La tasca d'aquest bloc consisteix en fer una aportació a aquest repositori. Per fer-ho, seguiu els següents passos:
 
-El projecte consisteix en la creació d'una base de dades de pel·lícules,
-sèries i llibres. Cada participant aportarà una o més entrades a la base de dades.
+Fes un fork de este mateix repositori.
+En aquest punt has de realitzar una contribució al projecte, que pot ser una de les següents opcions:
 
-## Estructura del projecte
-
-El projecte està organitzat en tres directoris:
-
-- `pelicules`: Conté les dades de les pel·lícules.
-- `series`: Conté les dades de les sèries.
-- `llibres`: Conté les dades dels llibres.
-
-Cada elemnt de la base de dades es troba en un fitxer
-de text en format Markdown dins del directori corresponent.
-
-## Contribuir al projecte
-
-Per contribuir al projecte, cal seguir els següents passos:
-
-1. Fer un *fork* del projecte.
-2. Clonar el repositori al teu dispositiu.
-3. Crear una branca per a la teua contribució.
-    - Cal utilitzar un prefix a la branca depenent del tipus de contribució:
-        - Pel·lícules: `pelicula/`
-        - Sèries: `serie/`
-        - Llibres: `llibre/`
+Afegir informació sobre un llibre.
+Afegir informació sobre una pel·lícula.
+Afegir informació sobre una sèrie.
+Depenent de la teua elecció, has de realitzar canvis en el teu repositori local amb la informació corresponent.
+# ----- Llibre -----
+Crea una branca llibre/titol-del-llibre, indicant el títol del llibre.
+Crea un fitxer dins del directori llibres amb el nom titol-del-llibre.md.
+Afegeix la informació del llibre al fitxer creat seguint el format:
 
 
-4. Afegir les dades de la teua pel·lícula, sèrie o llibre en el directori corresponent.
-5. Pots realitzar tots els _commits_ que consideres necessaris.
-6. Publicar la branca al teu repositori.
-7. Fer una sol·licitud de _Pull Request_ al repositori original.
-    - Cal afegir un títol i una descripció a la sol·licitud d'incorporació.
+# [Títol del llibre]
+- __Autor__: [Autor del llibre]
+- __Any de publicació__: [Any de publicació]
 
-## Incidències
+## Sinopsi
+[Sinopsi del llibre.]
 
-Si trobes algun error o vols fer una proposta de millora, obriu una
-incidència a la pestanya [Issues](https://github.com/cursgit/filmoteca/issues) del repositori.
+## Gèneres
+- [Gènere 1]
+- [Gènere 2]
+- ...
 
-A més, podeu tractar de resoldre les incidències obertes per altres
-participants del curs.
+Publica la branca amb els canvis realitzats al teu repositori.
+Crea una  Pull Request amb els canvis realitzats a la branca main del repositori original.
+Afegeix un títol i una descripció.
+
+# ----- Pel·licula -----
+Crea una branca pelicula/titol-de-la-pelicula, indicant el títol de la pel·lícula.
+Crea un fitxer dins del directori pelicules amb el nom titol-de-la-pelicula.md.
+Afegeix la informació de la pel·lícula al fitxer creat seguint el format:
+
+
+# [Títol de la pel·lícula]
+
+## Sinopsi
+[Sinopsi de la pel·lícula.]
+
+## Gèneres
+- [Gènere 1]
+- [Gènere 2]
+- ...
+
+## Repartiment
+[Directors, actrius i actors principals.]
+
+Publica la branca amb els canvis realitzats al teu repositori.
+Crea una  Pull Request amb els canvis realitzats a la branca main del repositori original.
+Afegeix un títol i una descripció.
+
+# ----- Sèrie -----
+Crea una branca serie/titol-de-la-serie, indicant el títol de la sèrie.
+Crea un fitxer dins del directori series amb el nom titol-de-la-serie.md.
+Afegeix la informació de la sèrie al fitxer creat seguint el format:
+
+
+# [Títol de la sèrie]
+
+## Sinopsi
+[Sinopsi de la sèrie.]
+
+## Gèneres
+- [Gènere 1]
+- [Gènere 2]
+- ...
+
+## Temporades
+[Nombre de temporades de la sèrie i títol de cada temporada.]
+
+Publica la branca amb els canvis realitzats al teu repositori.
+Crea una  Pull Request amb els canvis realitzats a la branca main del repositori original.
+Afegeix un títol i una descripció.
