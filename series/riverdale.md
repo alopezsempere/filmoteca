@@ -1,6 +1,7 @@
 ## Riverdale
 
 ## Sinopsi
+
 Riverdale és una sèrie de misteri i drama adolescent que segueix la vida d’un grup de joves en un poble aparentment tranquil, fins que un assassinat desencadena una sèrie de secrets foscos.
 
 ## Gèneres
@@ -9,7 +10,7 @@ Riverdale és una sèrie de misteri i drama adolescent que segueix la vida d’u
 - Misteri
 - Thriller
 
-##Temporades
+## Temporades
 7 temporades:
 - Temporada 1: Misteris a Riverdale
 - Temporada 2: L’Esperit Negre i les bandes
