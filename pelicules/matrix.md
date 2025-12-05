@@ -1,19 +1,15 @@
-# The Matrix
+# Matrix
 
-## Sinopsi
-En un futur distòpic, un programador informàtic anomenat Thomas Anderson, que secretament és un hacker conegut com a "Neo", descobreix que la realitat és una simulació elaborada creada per màquines intel·ligents per sotmetre la humanitat. Amb l'ajuda del misteriós Morpheus i la perillosa Trinity, Neo s'embarca en una rebel·lió contra les màquines, enfrontant-se als agents del sistema i qüestionant tot allò que creia saber.
+## Sinopsis
 
-## Gèneres
-- Ciència-ficció
-- Acció
-- Ciberpunk
+Thomas Anderson lleva una doble vida: por el día es programador en una importante empresa de software, y por la noche es un hacker informático llamado Neo. Su vida cambiará cuando reciba un mensaje en su ordenador que le insta a seguir al conejo blanco.
 
-## Repartiment
-- __Direcció__: Les germanes Wachowski 
-    - Lana Wachowski
-    - Lilly Wachowski
-- __Actors i actrius principals__:
-    - Keanu Reeves (Neo)
-    - Laurence Fishburne (Morpheus)
-    - Carrie-Anne Moss (Trinity)
-    - Hugo Weaving (Agent Smith)
+## Generos
+
+Ciencia Ficción
+Acción
+
+## Reparto
+
+Dirección: Lana Wachowski, Lilly Wachowski
+Actores: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, entre otros.
